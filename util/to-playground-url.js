@@ -27,7 +27,7 @@ function main() {
 
     const quizDirs = fs
       .readdirSync(`${MISSION_DIR}/${dayDir}/coding-quiz`)
-      .filter((it) => it !== "quiz.md");
+      .filter((it) => !["quiz.md", "README.md"].includes(it));
 
     const playGroundUrls = quizDirs.map((quizDir) => {
       const questionFile = fs.readFileSync(

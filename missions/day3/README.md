@@ -17,7 +17,7 @@ Day 3 첫번째 미션 안내 드립니다.
 
 ### 🎯 미션 안내
 
-> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-type-challenge/blob/main/missions/day3/quiz.md)**
+> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-type-challenge/blob/main/missions/day3/coding-quiz)**
 
 오늘의 미션은 바로 바로 코딩 Quiz입니다!  
 총 3개의 퀴즈가 준비되어 있고, 그리 복잡하지 않으니 금방 하실 수 있어요
