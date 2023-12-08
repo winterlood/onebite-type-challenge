@@ -13,7 +13,7 @@ Day 5 미션 안내 드립니다.
 
 ### 🎯 미션 안내
 
-> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-type-challenge/blob/main/missions/day5/quiz.md)**
+> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-type-challenge/blob/main/missions/day5/coding-quiz)**
 
 오늘의 미션은 바로 바로 코딩 Quiz입니다!
 딱 1개의 퀴즈만 푸시면 되구 무척이나 쉽습니다!

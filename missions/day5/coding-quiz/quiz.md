@@ -1,7 +1,22 @@
+
+
 ### Quiz 1.
-
 ---
+**퀴즈 풀기(뱃지 클릭)**  
+새 창으로 여시려면 Ctrl(Command)과 함께 클릭해주세요
 
+<p>
+<a href="https://www.typescriptlang.org/play?strict=false&noImplicitAny=false&ts=5.1.6#code/PQKgUA2gBIHN2DgTVAxg4HBqoF0yBFRwGe1UCrzgOy2Aa41IAM9gGENQCGANAEY0DGNAJjQKYmADC4KHjgAuNRAgDWCogFtHA3a2AYmqiAU2cAGHYAIWwDJ1gFLGA-FChgAtGUpUS8qIAaawD81gH06oAQSi9AC6NRAqBNFALquAficAcgyp16odQ3ImFlAAQrY8Ds7uXj4UUIwBQZYAwuGRrp7eunEsiWaWACJpThkx2ZScsoH5UACixVGZYCDAYGAANuwALtRQALxQAIwADADcYIwA9gB2AM49dP1QAExjEzPz8UsQgzQraONTcz0s27tQAEQAFuzt7ZMXe10ATgCu7Afrx1DsZ3vLewAzGhqLN4hsuuMwKAoBAAIqvACWAC8QXEDOEBIAWbsA46OAHnHADodVWU6igLTAXQAngAHX42AZUaaUqEw+FI1G+fyYqC4wnE1QaclU2mhJaM5ltVkIlFoygJbm8onyEmC1rC36pBlMlkgWHSjk5bj8Hn4pWKAVktU035FLUS6G6tky3yVXjY0380lC611MXayWOgAq7HmIMAN6OABjrAAG9gAZFwApTU5AK9NgBFxqCAFpnADYLgA1ViNQQAg44AdVaggEqxwAjzUTyI4s4AByaggClRwCtQ4AJpsAJ02WsCIgC21Mmzx6AG86gBHV5Udp7WoAD1pjC6ewAcpMulYmVAAL5QABmz0mncuAAF1dpGFcx51pgBzEPAV5dRHtWYXKHqqDB+bJKizEPbMCaKczroAB5ahHMdAKsPZpleTs6HYZ4AD54JoX86mndhZ2A0D2kAkJ-mGRDkL-NCMJA0dsOSSDoNg54IDQAiUP-dCgNIsCCj2AAKKCYLgqAAB8oHmZ5EUvPi-EmSZOkZABKWj6KIgDMLI4C9h2f4gTo+CwE+IA" target="_blank">
+<img src="https://img.shields.io/badge/-%ED%80%B4%EC%A6%88%20%ED%92%80%EA%B8%B0-3178c6?logo=typescript&logoColor=white" alt="퀴즈 풀러 가기"/>
+</a>
+<a href="https://www.typescriptlang.org/play?strict=false&noImplicitAny=false&ts=5.1.6#code/PQKgUA2gBIHN2DgTVAxg4HBqoF0yBFRwGe1UCrzgOy2Aa41IAM9gGENQCGANAEY0DGNAJjQKYmADC4KHjgAuNRAgDWCogFtHA3a2AYmqiAU2cAGHYAIWwDJ1gFLGA-FChgAtGUpUS8qIAaawD81gH06oAQSi9AC6NRAqBNFALquAficAcgyp16odQ3ImFlAAQrY8Ds7uXj4UUIwBQZYAwuGRrp7eunEsiWaWACJpThkx2ZScsoH5UACixVGZYCDAYGAANuwALtRQALxQAIwADADcYIwA9gB2AM49dP1QAExjEzPz8UsQgzQraONTcz0s27tQAEQAFuzt7ZMXe10ATgCu7Afrx1DsZ3vLewAzGhqLN4hsuuMwKAoBAAIqvACWAC8QXEDOEBIAWbsA46OAHnHADodVWU6igLTAXQAngAHX42AbTV4AWzo7GeUJh8KRqN8-kxUFxhOJqg05KptNCS1WHJAsIRKLRlAS-MFRPkJNFrXFv1SDOZrOeEE+0NlXIVvlyKvxasUIrJWppvyKAwAFIyWWyoAAfKDzZ6I6YAc29fkmk06VGmAEojTK5dzFT9uPwBdbhaSxY66n8VkDjZyACrseYgwA3o4AGOsAAb2ABkXAClNTkAr02AEXGoIAWmcANguADVXy1BACDjgB1VqCASrHACPNRPIjk7gAHJqCAKVHAK1DgAmmwAnTfawIimdTJs8egBvOoAR1eVHae1qAA9aYwunsAHKTLpWaaUqAAXygADNnpMmZcAALatojBXCenRBsWwCvF0iLtLMFxQtqUBFvMyRULMxbbGAmgXleXQADy1EeJ54VYezugaAB8FE0FhdSXuw14EUR7R4SE-zDFRNHYfRjGEceLHJGR+pskanG0ThDH4XxxEFHsbrCc8IZ+gGwY+nQYYRtGonUeJPFScxBF7Ds-x5lRYCfEAA" target="_blank">
+<img src="https://img.shields.io/badge/-%EC%A0%95%EB%8B%B5%20%ED%99%95%EC%9D%B8-c63178?logo=typescript&logoColor=white" alt="정답 확인"/>
+</a>
+</p>
+
+
+### Quiz 2.
+---
 **퀴즈 풀기(뱃지 클릭)**  
 새 창으로 여시려면 Ctrl(Command)과 함께 클릭해주세요
 
@@ -13,3 +28,5 @@
 <img src="https://img.shields.io/badge/-%EC%A0%95%EB%8B%B5%20%ED%99%95%EC%9D%B8-c63178?logo=typescript&logoColor=white" alt="정답 확인"/>
 </a>
 </p>
+
+
