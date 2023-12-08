@@ -56,5 +56,5 @@ let numA: number = null; // ❌ 오류 발생!
 
 ex) 옵션이름 : 설정 값
 
-- **정답: noImplicitAny: false**
+- **정답: strictNullChecks: false**
 - strict: false 또한 정답이 될 수는 있습니다!
