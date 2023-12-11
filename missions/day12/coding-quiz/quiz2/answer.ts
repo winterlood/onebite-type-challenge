@@ -1,6 +1,6 @@
 /*
 [ 문제 소개 ]
-다음 조건을 만족하는 3개의 타입을 정의하세요
+다음 조건을 만족하는 3개의 타입을 추가로 정의하세요
 - PartialProduct 타입은 Product 타입의 모든 프로퍼티를 다 선택적 프로퍼티로 바꾼 타입입니다.
 - ReadonlyProduct 타입은 Product 타입의 모든 프로퍼티를 다 읽기 전용 프로퍼티로 바꾼 타입입니다.
 - ReadonlyPartialProduct 타입은 Product 타입의 모든 프로퍼티를 다 선택적, 읽기 전용 프로퍼티로 바꾼 타입입니다.
