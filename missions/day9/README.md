@@ -16,7 +16,7 @@ Day 9 미션 안내 드립니다.
 
 ### 🎯 미션 안내
 
-> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-type-challenge/blob/main/missions/day7/coding-quiz)**
+> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-type-challenge/blob/main/missions/day9/coding-quiz)**
 
 오늘의 미션은 바로 바로 코딩 Quiz입니다!
 오늘은 단 1개의 퀴즈만 푸시면 됩니다!
