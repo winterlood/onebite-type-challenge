@@ -3,8 +3,7 @@ import fs from "fs";
 export const TYPESCRIPT_PLAYGROUND = "https://www.typescriptlang.org/play";
 
 const playgroundOptions = {
-  strict: false,
-  noImplicitAny: false,
+  strict: true,
   ts: "5.1.6",
 };
 
