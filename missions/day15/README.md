@@ -14,7 +14,7 @@ Day 13 미션 안내 드립니다.
 
 ### 🎯 미션 안내
 
-> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-type-challenge/blob/main/missions/day13/coding-quiz)**
+> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-type-challenge/blob/main/missions/day15/coding-quiz)**
 
 오늘의 미션은 바로 바로 코딩 Quiz입니다!  
 3개의 퀴즈가 준비되어 있습니다!
