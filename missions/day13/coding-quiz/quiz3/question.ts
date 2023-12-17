@@ -7,6 +7,7 @@
 */
 
 /* [Quiz] 아래의 코드를 수정하세요 */
+type Score = any;
 
 /* [Test] 여기부터는 정답을 체크하기 위한 용도로 수정하지 않습니다 */
 import { Equal, Expect, ExpectExtends, ExpectFalse } from "@type-challenges/utils";
