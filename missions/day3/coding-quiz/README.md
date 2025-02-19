@@ -11,17 +11,17 @@
 - Info 타입은 [숫자, 문자열] 형태의 배열만 허용하는 타입입니다.
 
 ```typescript
-type Nums = number[];
-type Colors = string[];
-type Coords = [number, number];
-type Info = [string, number];
+type Nums = any;
+type Colors = any;
+type Coords = any;
+type Info = any;
 ```
 
 **퀴즈 풀기(뱃지 클릭)**  
 새 창으로 여시려면 Ctrl(Command)과 함께 클릭해주세요
 
 <p>
-<a href="https://www.typescriptlang.org/play?strict=false&noImplicitAny=false&ts=5.1.6#code/PQKgUA2gBIHN2DgTVAxg4HBqoF0yBOmwMuNUCljgNrWA1A4LargIuNSAznYI4TgGquApTVAIIB2AlgLYCGANlIAMLgUPGKgETHAjIO1AHIN4wAWmbtufIYAFxqABEA9gHMBgwD7jUQBhDgEeaoAYS4AXPYdNRAEeOBWocATTZgB0YEMDBhQUCABFAFc2AC80KEARUcAM9sANcahAFXnAHZbAH06ocUAXVahAEjHADU70uEAHGqk8KG8wKwBPAAcAUw0dKABeKABvMCgoFi4OOoAuKABnKwAnNhZtAG5OqABjTR5NUcGR8cmZgF8ZytqGyxtWjq6evtWxienZrm0B7uCOACM60a2d6vqFTl4W7rqANxeO38EAAKnURpFADejgAY6wABvYAGRcYgFQJwCvTRRAC0zgBsF2gwqCAEHHADqrUEAlWMmQA6HcZkbRAAOTUEAUqOuTDlHwLFgjKBcRS8IaDVjfHgQSKtCCzY5dbq9O4AIkABYuASW7AC7j0oANLMugslisoNLHqNNAB3Fiq2abNVdcUnKWDaWAGTrALudyvNEpudwALM6zWL1ZKzjrADfLgBlFhUmiXzRbLG16w3Gz3Oy2+mWAFCnAB-doZdt0GAEYAAxxsBoGZAA" target="_blank">
+<a href="https://www.typescriptlang.org/play/?strict=false&noImplicitAny=false&ts=5.1.6&ssl=17&ssc=1&pln=13&pc=1#code/PQKgUA2gBIHN2DgTVAxg4HBqoF0yBOmwMuNUCljgNrWA1A4LargIuNSAznYI4TgGquApTVACzKAa41IAMLgoeMWCoE67UAcg3jBgAtFACCAOwCenLoAFxqEUCVY4ANVqIAwhqIDHRwK1DgCabMAOnFQAcgFcAtgGcFywNRDgBPHKUQC9NFHYAjxxoAYewBfRhS5jMwkAYQB7ABsogCcHbmUYF0D3L20oPyggkLDzaISAEySlKAhXABooVzQoQFQ1wB2F9iD3QAnV1QZ803MASWkAMyjHCurYNPrm1vSoTu7uUN6QYFFQCoBFKwBLAC96wBFRwAz29kAVecAdlsAfTqhAETHARkHAF1WoQBIxwA1O67hABxqhPCgVsAALrIAA4AU0stgcAF4oNJQQA3UHxADcgJB4OicUSUBhcMRKLRYKgRXipRxsIRSNRQKJA2G5LxVLWIAqABVQXYAfVADejgAY6wABvYAGRcYvEAr00UQAtM4AbBdovKggBBxwA6q1BVIAR5sAOh3aXi0QADk1BAFKjRkwf1W2xswISAKgAG8oABRACOVgAhjEanaAB5ggDGAJqFiiAJk8gAvlBBvEojYoAAiAACNNBYm9AAtXTFQdIAOYc4BWAHbGJ2GOosDeqLSTmw2wAIyRdgAXBD7OSIABGGoAJhqAGYakwagBWNCo8uVq3lrGN4mxBLQiox+Kg4oxmoxrNLzOr2M1mJWUExkdlitV8slbbSZ0AjlNklkmEQPtQYejk9Wi-DJt0kYPmOAF3HeEADTXt07AB2I9CXBb1nTsDlWzAKB7S9UFfQAHgDIM5HQyEoAAHxnKc8JnEoHHw78AD5yKqBCkJ9AFUMdF0Ymw+wamkWskQgNBKOoxDPTohinVdVDMTnGpOXiC8sy4niaP4lD6MY4S7zsGoIHYmw63iNiOPibiqLk5C0KU5jvzUiSpJ0zSkX0sAjyAA" target="_blank">
 <img src="https://img.shields.io/badge/-%ED%80%B4%EC%A6%88%20%ED%92%80%EA%B8%B0-3178c6?logo=typescript&logoColor=white" alt="퀴즈 풀러 가기"/>
 </a>
 <a href="https://www.typescriptlang.org/play?strict=false&noImplicitAny=false&ts=5.1.6#code/PQKgUA2gBIHN2DgTVAxg4HBqoF0yBOmwMuNUCljgNrWA1A4LargIuNSAznYI4TgGquApTVACzKAa41IAMLgoeMWCoE67UAcg3jBgAtFACCAOwCenLoAFxqEUCVY4ANVqIAwhqIDHRwK1DgCabMAOnFQAcgFcAtgGcFywNRDgBPHKUQC9NFHYAjxxoAYewBfRhS5jMwkAYQB7ABsogCcHbmUYF0D3L20oPyggkLDzaISAEySlKAhXABooVzQoQFQ1wB2F9iD3QAnV1QZ803MASWkAMyjHCurYNPrm1vSoTu7uUN6QYFFQCoBFKwBLAC96wBFRwAz29kAVecAdlsAfTqhAETHARkHAF1WoQBIxwA1O67hABxqhPCgVsAALrIAA4AU0stgcAF4oNJbAAjUHxCBoADcgJB4OicUSUBhdgB8W20gA5ij0UCwVAivFSniKnCbIj4jVGcy0RiqQNhvSIASiaTWQikRywOsIAAVUEE+qAG9HAAx1gADewAMi4xeIBXpoogBaZwA2C7R5VBACDjgB1VqCqQAjzYAdDu0vFogAHJqCAKVGjJg-qttjZgQkAVAAN5QACiAEcrABDGI1AMADzBAGMATULFEATJ5ABfKCDeJRGxQABEAAFKaCxLGABbhmKg0nS4BWAHbGJ2PPosCxqLSAmw4WJABcEPsvIAjDUAEw1ADMNSYNQArBz252fe2cXZ+9iEtCKnn4qDinmanmSbvqwf8-CYlZQXmFx2u+2SsTQwDpeuoiUtxAp1B5+jF13iWGftuRGGEIDzQAXcd4QANNbPUcAHZRWLKBY1DOxpV5MAoEDGNQXjAAeJMUzkQjISgAAfalYk3CiqI-WiQIAPkYqosJwuMAXw4MwxiUj7CFJkkRRZjWOw6MOK4kNw3wjdEhqfliTJNARLY8S8M47jpJpUoaggNkkQE9kVLE3CCM03iQN0hTBW7QT4mUxiwA5IA" target="_blank">
@@ -45,13 +45,7 @@ type Info = [string, number];
 - 문자열 배열을 저장하는 related_courses 프로퍼티를 가져야 합니다.
 
 ```typescript
-type Course = {
-  name: string;
-  price: number;
-  student_cnt: number;
-  author: string;
-  related_courses: string[];
-};
+type Course = never;
 ```
 
 **퀴즈 풀기(뱃지 클릭)**  
