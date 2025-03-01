@@ -4,17 +4,18 @@
 
 다음 요구사항을 만족하는 3개의 인터페이스를 정의하세요
 
-1. Content Interface
 
-   - name(String 타입), info(T 타입) 프로퍼티를 갖습니다.
-
-2. Video Interface
+1. Video Interface
 
    - playTime(Number 타입) 프로퍼티를 갖습니다.
 
-3. Book Interface
+2. Book Interface
 
    - pageNumber(Number 타입) 프로퍼티를 갖습니다.
+
+3. Content Interface
+
+   - name(String 타입), info(T 타입) 프로퍼티를 갖습니다.
 
 ```typescript
 interface Video {}
